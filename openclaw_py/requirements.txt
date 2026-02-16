@@ -1,0 +1,5 @@
+python-dotenv
+pydantic
+typer
+pyjson5
+pytest
